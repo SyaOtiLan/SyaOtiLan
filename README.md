@@ -1,6 +1,6 @@
 # Hi, I'm SyaOtiLan
 
-I write C++ and CUDA, with a background in ACM-style competitive programming.
+I write C++ and CUDA, with an ACM provincial silver medal background.
 
 Right now I am learning LLM inference from the bottom up: GPU kernels,
 transformer internals, generation loops, and KV cache.
@@ -17,7 +17,7 @@ transformer internals, generation loops, and KV cache.
 
 ## Background
 
-- ACM-style competitive programming
+- ACM provincial silver medal
 - C++ algorithms and data structures
 - CUDA and GPU programming
 - LLM inference systems
