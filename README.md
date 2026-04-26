@@ -1,30 +1,26 @@
 # Hi, I'm SyaOtiLan
 
-I build CUDA, LLM inference, and AI infrastructure projects from first principles.
+I write C++ and CUDA, with a background in ACM-style competitive programming.
 
-## Featured
+Right now I am learning LLM inference from the bottom up: GPU kernels,
+transformer internals, generation loops, and KV cache.
 
-[GPT2.cu](https://github.com/SyaOtiLan/GPT2.cu)  
-Handwritten C++/CUDA GPT-2 inference with real Hugging Face weights, greedy
-generation, prefill/decode, and KV cache.
+## Current Work
 
-## Projects
-
-- [GPT2.cu](https://github.com/SyaOtiLan/GPT2.cu): C++/CUDA GPT-2 inference,
-  greedy generation, and KV-cache decoding.
-- [IssueRadar](https://github.com/SyaOtiLan/IssueRadar): GitHub issue triage
-  with rules, LLM fit analysis, SQLite, and HTML digests.
-- [ContextOS](https://github.com/SyaOtiLan/context-os): experimental personal
-  context system for project memory, technical notes, and agent workflows.
+- [GPT2.cu](https://github.com/SyaOtiLan/GPT2.cu)  
+  Handwritten C++/CUDA GPT-2 inference with real Hugging Face weights, greedy
+  generation, prefill/decode, and KV cache.
 
 ## Writing
 
 - [从零手写 CUDA GPT-2 推理：从 full recompute 到 KV cache](https://zhuanlan.zhihu.com/p/2027774235276325692)
 
-## Focus
+## Background
 
-CUDA · C++ · GPU kernels · Transformer inference · KV cache · vLLM · AI agents ·
-open source tooling
+- ACM-style competitive programming
+- C++ algorithms and data structures
+- CUDA and GPU programming
+- LLM inference systems
 
 ## Links
 
